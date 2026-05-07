@@ -19,4 +19,3 @@ public class AppNFe {
 		sc.close();
 	}
 }
-// C:\Users\pedro\Downloads\NFe4.xml
